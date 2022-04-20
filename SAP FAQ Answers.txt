@@ -1,0 +1,1 @@
+You can use YM49, be aware that you can only send the same FPV filename once in a day, the "day" for the batch plan tool starts at 4 PM.
